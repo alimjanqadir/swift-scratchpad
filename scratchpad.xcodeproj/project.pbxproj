@@ -9,8 +9,8 @@
 /* Begin PBXBuildFile section */
 		9470A3B82616E31900E64C0E /* Tests_iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9470A3B72616E31900E64C0E /* Tests_iOS.swift */; };
 		9470A3C32616E31900E64C0E /* Tests_macOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9470A3C22616E31900E64C0E /* Tests_macOS.swift */; };
-		9470A3C52616E31900E64C0E /* scratchpadApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9470A39C2616E31800E64C0E /* scratchpadApp.swift */; };
-		9470A3C62616E31900E64C0E /* scratchpadApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9470A39C2616E31800E64C0E /* scratchpadApp.swift */; };
+		9470A3C52616E31900E64C0E /* ScratchpadApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9470A39C2616E31800E64C0E /* ScratchpadApp.swift */; };
+		9470A3C62616E31900E64C0E /* ScratchpadApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9470A39C2616E31800E64C0E /* ScratchpadApp.swift */; };
 		9470A3C72616E31900E64C0E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9470A39D2616E31800E64C0E /* ContentView.swift */; };
 		9470A3C82616E31900E64C0E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9470A39D2616E31800E64C0E /* ContentView.swift */; };
 		9470A3C92616E31900E64C0E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9470A39E2616E31800E64C0E /* Assets.xcassets */; };
@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		9470A39C2616E31800E64C0E /* scratchpadApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scratchpadApp.swift; sourceTree = "<group>"; };
+		9470A39C2616E31800E64C0E /* ScratchpadApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScratchpadApp.swift; sourceTree = "<group>"; };
 		9470A39D2616E31800E64C0E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9470A39E2616E31800E64C0E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9470A3A32616E31900E64C0E /* scratchpad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = scratchpad.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -98,7 +98,7 @@
 		9470A39B2616E31800E64C0E /* Shared */ = {
 			isa = PBXGroup;
 			children = (
-				9470A39C2616E31800E64C0E /* scratchpadApp.swift */,
+				9470A39C2616E31800E64C0E /* ScratchpadApp.swift */,
 				9470A39D2616E31800E64C0E /* ContentView.swift */,
 				9470A39E2616E31800E64C0E /* Assets.xcassets */,
 			);
@@ -309,7 +309,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9470A3C72616E31900E64C0E /* ContentView.swift in Sources */,
-				9470A3C52616E31900E64C0E /* scratchpadApp.swift in Sources */,
+				9470A3C52616E31900E64C0E /* ScratchpadApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -318,7 +318,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9470A3C82616E31900E64C0E /* ContentView.swift in Sources */,
-				9470A3C62616E31900E64C0E /* scratchpadApp.swift in Sources */,
+				9470A3C62616E31900E64C0E /* ScratchpadApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
